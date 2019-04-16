@@ -1,0 +1,4 @@
+Problem D. Walking Robot
+----------
+
+If accumulator is used to pass some segment, its charge decreases by 1 no matter if the segment is exposed or not.
